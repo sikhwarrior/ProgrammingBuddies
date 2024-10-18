@@ -10,3 +10,16 @@ C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\Programmin
 C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\refint\ProgrammingBuddies.Domain.dll
 C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.pdb
 C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ref\ProgrammingBuddies.Domain.dll
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\bin\Debug\net8.0\ProgrammingBuddies.Domain.deps.json
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\bin\Debug\net8.0\ProgrammingBuddies.Domain.dll
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\bin\Debug\net8.0\ProgrammingBuddies.Domain.pdb
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.csproj.AssemblyReference.cache
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.AssemblyInfoInputs.cache
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.AssemblyInfo.cs
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.sourcelink.json
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.dll
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\refint\ProgrammingBuddies.Domain.dll
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ProgrammingBuddies.Domain.pdb
+C:\Users\mante\Source\Repos\ProgrammingBuddies\src\ProgrammingBuddies.Domain\obj\Debug\net8.0\ref\ProgrammingBuddies.Domain.dll
