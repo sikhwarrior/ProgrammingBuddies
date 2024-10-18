@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj": {}
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj": {
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj",
+        "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj",
         "projectName": "ProgrammingBuddies.Api",
-        "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj",
-        "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\obj\\",
+        "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj",
+        "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,14 +30,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj"
               },
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj"
               },
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj"
               }
             }
           }
@@ -139,18 +139,18 @@
         }
       }
     },
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj",
+        "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj",
         "projectName": "ProgrammingBuddies.Application",
-        "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj",
-        "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\obj\\",
+        "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj",
+        "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,8 +165,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj"
               }
             }
           }
@@ -258,18 +258,18 @@
         }
       }
     },
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj": {
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj",
         "projectName": "ProgrammingBuddies.Contracts",
-        "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj",
-        "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\ProgrammingBuddies.Contracts.csproj",
+        "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -363,18 +363,18 @@
         }
       }
     },
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
         "projectName": "ProgrammingBuddies.Domain",
-        "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
-        "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\obj\\",
+        "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
+        "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -488,18 +488,18 @@
         }
       }
     },
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj": {
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj",
         "projectName": "ProgrammingBuddies.Infrastructure",
-        "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -514,8 +514,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj"
               }
             }
           }
@@ -667,18 +667,18 @@
         }
       }
     },
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj": {
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj",
+        "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj",
         "projectName": "ProgrammingBuddies.Application.SubcutaneousTests",
-        "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj",
-        "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\obj\\",
+        "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\ProgrammingBuddies.Application.SubcutaneousTests.csproj",
+        "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Application.SubcutaneousTests\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -693,11 +693,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj"
               },
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj"
               }
             }
           }
@@ -813,18 +813,18 @@
         }
       }
     },
-    "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
+    "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj",
+        "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj",
         "projectName": "TestCommon",
-        "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj",
-        "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\obj\\",
+        "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj",
+        "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -839,14 +839,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Application\\ProgrammingBuddies.Application.csproj"
               },
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj"
               },
-              "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj"
+              "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Infrastructure\\ProgrammingBuddies.Infrastructure.csproj"
               }
             }
           }
