@@ -1,0 +1,17 @@
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\bin\Debug\net8.0\ProgrammingBuddies.Infrastructure.deps.json
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\bin\Debug\net8.0\ProgrammingBuddies.Infrastructure.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\bin\Debug\net8.0\ProgrammingBuddies.Infrastructure.pdb
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\bin\Debug\net8.0\ProgrammingBuddies.Application.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\bin\Debug\net8.0\ProgrammingBuddies.Domain.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\bin\Debug\net8.0\ProgrammingBuddies.Application.pdb
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\bin\Debug\net8.0\ProgrammingBuddies.Domain.pdb
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ProgrammingBuddies.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ProgrammingBuddies.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ProgrammingBuddies.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ProgrammingBuddies.Infrastructure.AssemblyInfo.cs
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ProgrammingBuddies.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\Programm.6EF9DF32.Up2Date
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ProgrammingBuddies.Infrastructure.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\refint\ProgrammingBuddies.Infrastructure.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ProgrammingBuddies.Infrastructure.pdb
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Infrastructure\obj\Debug\net8.0\ref\ProgrammingBuddies.Infrastructure.dll

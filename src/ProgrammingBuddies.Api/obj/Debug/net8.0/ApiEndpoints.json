@@ -1,0 +1,201 @@
+[
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.TokensController",
+    "Method": "GenerateToken",
+    "RelativePath": "tokens/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProgrammingBuddies.Contracts.Tokens.GenerateTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.SubscriptionsController",
+    "Method": "CreateSubscription",
+    "RelativePath": "users/{userId}/subscriptions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ProgrammingBuddies.Contracts.Subscriptions.CreateSubscriptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.SubscriptionsController",
+    "Method": "GetSubscription",
+    "RelativePath": "users/{userId}/subscriptions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.SubscriptionsController",
+    "Method": "DeleteSubscription",
+    "RelativePath": "users/{userId}/subscriptions/{subscriptionId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.RemindersController",
+    "Method": "CreateReminder",
+    "RelativePath": "users/{userId}/subscriptions/{subscriptionId}/reminders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ProgrammingBuddies.Contracts.Reminders.CreateReminderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.RemindersController",
+    "Method": "ListReminders",
+    "RelativePath": "users/{userId}/subscriptions/{subscriptionId}/reminders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.RemindersController",
+    "Method": "DeleteReminder",
+    "RelativePath": "users/{userId}/subscriptions/{subscriptionId}/reminders/{reminderId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "reminderId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.RemindersController",
+    "Method": "GetReminder",
+    "RelativePath": "users/{userId}/subscriptions/{subscriptionId}/reminders/{reminderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "reminderId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgrammingBuddies.Api.Controllers.RemindersController",
+    "Method": "DismissReminder",
+    "RelativePath": "users/{userId}/subscriptions/{subscriptionId}/reminders/{reminderId}/dismiss",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "reminderId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

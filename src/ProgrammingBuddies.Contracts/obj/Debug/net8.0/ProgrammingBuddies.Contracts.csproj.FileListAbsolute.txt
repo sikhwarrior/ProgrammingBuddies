@@ -1,0 +1,11 @@
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\bin\Debug\net8.0\ProgrammingBuddies.Contracts.deps.json
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\bin\Debug\net8.0\ProgrammingBuddies.Contracts.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\bin\Debug\net8.0\ProgrammingBuddies.Contracts.pdb
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\ProgrammingBuddies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\ProgrammingBuddies.Contracts.AssemblyInfoInputs.cache
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\ProgrammingBuddies.Contracts.AssemblyInfo.cs
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\ProgrammingBuddies.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\ProgrammingBuddies.Contracts.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\refint\ProgrammingBuddies.Contracts.dll
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\ProgrammingBuddies.Contracts.pdb
+C:\Users\gland\source\repos\ProgrammingBuddies\ProgrammingBuddies\src\ProgrammingBuddies.Contracts\obj\Debug\net8.0\ref\ProgrammingBuddies.Contracts.dll
