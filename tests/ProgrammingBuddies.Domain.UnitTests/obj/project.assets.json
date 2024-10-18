@@ -10982,20 +10982,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gland\\.nuget\\packages\\": {}
+    "C:\\Users\\mante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Domain.UnitTests\\ProgrammingBuddies.Domain.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Domain.UnitTests\\ProgrammingBuddies.Domain.UnitTests.csproj",
       "projectName": "ProgrammingBuddies.Domain.UnitTests",
-      "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Domain.UnitTests\\ProgrammingBuddies.Domain.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Domain.UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Domain.UnitTests\\ProgrammingBuddies.Domain.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Domain.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
-        "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11010,11 +11010,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
-              "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj"
+            "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj": {
+              "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj"
             },
-            "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
-              "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj"
+            "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
+              "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj"
             }
           }
         }

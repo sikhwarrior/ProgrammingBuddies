@@ -12469,20 +12469,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gland\\.nuget\\packages\\": {}
+    "C:\\Users\\mante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Api.IntegrationTests\\ProgrammingBuddies.Api.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Api.IntegrationTests\\ProgrammingBuddies.Api.IntegrationTests.csproj",
       "projectName": "ProgrammingBuddies.Api.IntegrationTests",
-      "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Api.IntegrationTests\\ProgrammingBuddies.Api.IntegrationTests.csproj",
-      "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Api.IntegrationTests\\obj\\",
+      "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Api.IntegrationTests\\ProgrammingBuddies.Api.IntegrationTests.csproj",
+      "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\ProgrammingBuddies.Api.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
-        "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12497,11 +12497,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj": {
-              "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj"
+            "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj": {
+              "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Api\\ProgrammingBuddies.Api.csproj"
             },
-            "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
-              "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj"
+            "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj": {
+              "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\tests\\TestCommon\\TestCommon.csproj"
             }
           }
         }

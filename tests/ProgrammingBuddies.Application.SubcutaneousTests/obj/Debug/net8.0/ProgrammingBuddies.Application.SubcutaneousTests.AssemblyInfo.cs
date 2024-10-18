@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgrammingBuddies.Application.SubcutaneousTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182c52887dac8381fe1e98d3561d332eac84ea22")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgrammingBuddies.Application.SubcutaneousTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgrammingBuddies.Application.SubcutaneousTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

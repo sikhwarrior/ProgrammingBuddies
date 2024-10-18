@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgrammingBuddies.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182c52887dac8381fe1e98d3561d332eac84ea22")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgrammingBuddies.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgrammingBuddies.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

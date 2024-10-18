@@ -282,20 +282,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gland\\.nuget\\packages\\": {}
+    "C:\\Users\\mante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
       "projectName": "ProgrammingBuddies.Domain",
-      "projectPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
-      "packagesPath": "C:\\Users\\gland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gland\\source\\repos\\ProgrammingBuddies\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\obj\\",
+      "projectPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\ProgrammingBuddies.Domain.csproj",
+      "packagesPath": "C:\\Users\\mante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mante\\Source\\Repos\\ProgrammingBuddies\\src\\ProgrammingBuddies.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
-        "C:\\Users\\gland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
